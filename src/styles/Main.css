@@ -1,0 +1,12 @@
+.back-to-top {
+    width: 85px;
+    height: 85px;
+    border-radius: 50% !important;
+    position: fixed;
+    bottom: 1.5%;
+    right: 1%;
+}
+
+.back-to-top:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,26 @@
+.id-delete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.delete-comment:hover {
+    background-color: red;
+    filter: brightness(55%);
+    transition: 0.2s;
+}
+
+.comments-area {
+    width: auto;
+    position: sticky;
+    top: 3%;
+}
+
+.write-comment {
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.rating {
+    margin-bottom: 2%;
+}

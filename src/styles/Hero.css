@@ -1,0 +1,10 @@
+.carousel {
+    width: 67.3%;
+    margin-left: 16%;
+    margin-top: 3%;
+}
+
+.image {
+    border-radius: 5px;
+    max-height: 380px;
+}

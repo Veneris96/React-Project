@@ -1,0 +1,27 @@
+.footer {
+  position: static;
+  margin-top: 2%;
+  margin-left: 1%;
+  width: 98%;
+  background-color: black;
+  font-size: 13pt;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: white !important;
+}
+
+.row {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.col {
+  width: min-content;
+  color: white;
+}

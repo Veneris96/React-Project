@@ -1,0 +1,11 @@
+.single-card {
+    height: max-content;
+}
+
+.single-card img {
+    height: 350px;
+}
+
+.details {
+    width: 230px;
+}

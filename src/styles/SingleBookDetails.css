@@ -1,0 +1,11 @@
+.card {
+    width: 22%;
+    margin-top: 1%;
+    margin-left: 40%;
+}
+
+.back-to-home {
+    position: absolute;
+    bottom: 1.5%;
+    margin-left: 0.8%;
+}
